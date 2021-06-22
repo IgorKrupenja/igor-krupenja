@@ -6,7 +6,7 @@
 - I do freelance software development work, having experience with JavaScript (Cloud Functions for Firebase, some Node.js) and Flutter/Dart.
 - In my free time, I love tinkering with Typescript, React and Firebase.
 - Currently working on 🎒 Zaino, an equipment management app for hiking and mountaineering. Check out the [live demo](https://zaino.io), the [code](https://github.com/igor-krupenja/zaino/) or submit issues/feature requests [here on Github](https://github.com/igor-krupenja/zaino/issues).
-- I also have a degree in finance 🤓
+- I also have a degree in finance 🤓📈
 - I am based in Estonia and work remotely at the moment. I speak 🇬🇧 🇷🇺 🇪🇪 🇮🇹
 
 ### Technologies and tools 🛠
